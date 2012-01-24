@@ -1,0 +1,2 @@
+UPDATE `quest_template` SET `RequestItemsText` = 'Back so soon? In case I didn''t make myself clear we need you to kill 10 Stonesplinter Shaman and 10 Stonesplinter Bonesnappers, $N. Now go get ''em, Trogg-Slayer!' WHERE `entry` = 263;
+UPDATE `quest_template` SET `OfferRewardText` = 'This is quite a find, $N. I can''t have you selling this to anyone else, so I''m willing to offer generously.' WHERE `entry` = 14203;

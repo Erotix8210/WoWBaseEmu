@@ -1,0 +1,3 @@
+cmake ../ -DPREFIX=/home/MaNGOS/bin -DDEBUG=1
+nice -10 make -j4
+nice -20 make install -j8
