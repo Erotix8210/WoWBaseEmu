@@ -1,7 +1,0 @@
-CREATE TABLE IF NOT EXISTS arena_mmr_rating 
-(
-    guid INT(11) UNSIGNED NOT NULL, 
-    rating2 INT(10) UNSIGNED NOT NULL,  
-    rating3 INT(10) UNSIGNED NOT NULL,
-    rating5 INT(10) UNSIGNED NOT NULL
-);
